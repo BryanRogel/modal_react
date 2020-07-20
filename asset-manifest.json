@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modal_react/static/css/main.523f09c5.chunk.css",
+    "main.js": "/modal_react/static/js/main.fd430e81.chunk.js",
+    "main.js.map": "/modal_react/static/js/main.fd430e81.chunk.js.map",
+    "runtime-main.js": "/modal_react/static/js/runtime-main.d79edfe5.js",
+    "runtime-main.js.map": "/modal_react/static/js/runtime-main.d79edfe5.js.map",
+    "static/js/2.f8492764.chunk.js": "/modal_react/static/js/2.f8492764.chunk.js",
+    "static/js/2.f8492764.chunk.js.map": "/modal_react/static/js/2.f8492764.chunk.js.map",
+    "index.html": "/modal_react/index.html",
+    "precache-manifest.615636f4542f4c33d62db68252fa9211.js": "/modal_react/precache-manifest.615636f4542f4c33d62db68252fa9211.js",
+    "service-worker.js": "/modal_react/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/modal_react/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.f8492764.chunk.js.LICENSE.txt": "/modal_react/static/js/2.f8492764.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/modal_react/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d79edfe5.js",
+    "static/js/2.f8492764.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.fd430e81.chunk.js"
+  ]
+}
